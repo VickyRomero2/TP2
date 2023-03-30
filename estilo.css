@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(230, 229, 229);
+}
+img{
+    position: absolute;
+    margin-left: 65vh;
+    height: 95vb;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 42vh;
+}
+header{
+    padding-top: 3dvh;
+}
+.izq1{
+    background-color: silver;
+    padding: 4vh 2vh 4vh 2vh;
+    width: 20%;
+    margin-top: 12vh;
+    margin-left: 42vh;
+}
+.izq2{
+    color: white;
+    background-color: rgb(70, 70, 70);
+    width: 40%;
+    padding-left: 32vh; 
+}
+.vr{
+    padding-top: 2vh;
+    margin-top: 12vh;
+}
+.rv{
+    padding-bottom: 2vh;
+}
+.der0{
+    line-height: 6vh;
+    font-size: 9vh;
+    color: rgb(230, 229, 229);;
+    background-color: silver;
+    width: 37%;
+    margin-left: 115vh;
+    padding: 0 8vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.fond{
+    margin-top: -13vh;
+}
+
+.der1{
+    margin-left: 133vh;
+    position: absolute;
+    z-index: 0;
+    margin-top: -8vh;    
+}
+.der2{
+    color: white;
+    background-color: rgb(70, 70, 70);
+    width: 14%;
+    margin-left: 135vh;
+    margin-top: 12vh;
+    padding: 4vh 0 4vh 8vh;
+}
+.div1{
+    display: flex;
+    margin-top: 5vh;
+    font-size: x-large;
+    position: absolute;
+    z-index: 1;
+    font-family: 'Open Sans', sans-serif;
+}
+.div2{
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    margin-top: 15vh;
+}
+.white{
+    color: white;
+} 
+.h1{
+    margin-left: 41vh;
+    
+}
+.h2{
+    margin-left: 49vh;
+}
+.h3{
+    margin-left: 38vh;
+    
+}
+.h41{
+    margin-left: 41vh;
+}
+.h42{
+    margin-left: 28vh;
+}
+.h43{
+    margin-left: 28vh;
+}
+
+
